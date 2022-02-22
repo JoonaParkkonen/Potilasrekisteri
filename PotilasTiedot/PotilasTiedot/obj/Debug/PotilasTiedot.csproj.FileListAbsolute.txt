@@ -1,0 +1,47 @@
+C:\Ohjelmointi kansio\Lopputyöt\PotilasTiedot\PotilasTiedot\bin\Debug\PotilasTiedot.exe.config
+C:\Ohjelmointi kansio\Lopputyöt\PotilasTiedot\PotilasTiedot\bin\Debug\PotilasTiedot.exe
+C:\Ohjelmointi kansio\Lopputyöt\PotilasTiedot\PotilasTiedot\bin\Debug\PotilasTiedot.pdb
+C:\Ohjelmointi kansio\Lopputyöt\PotilasTiedot\PotilasTiedot\obj\Debug\PotilasTiedot.Form1.resources
+C:\Ohjelmointi kansio\Lopputyöt\PotilasTiedot\PotilasTiedot\obj\Debug\PotilasTiedot.Properties.Resources.resources
+C:\Ohjelmointi kansio\Lopputyöt\PotilasTiedot\PotilasTiedot\obj\Debug\PotilasTiedot.csproj.GenerateResource.cache
+C:\Ohjelmointi kansio\Lopputyöt\PotilasTiedot\PotilasTiedot\obj\Debug\PotilasTiedot.csproj.CoreCompileInputs.cache
+C:\Ohjelmointi kansio\Lopputyöt\PotilasTiedot\PotilasTiedot\obj\Debug\PotilasTiedot.exe
+C:\Ohjelmointi kansio\Lopputyöt\PotilasTiedot\PotilasTiedot\obj\Debug\PotilasTiedot.pdb
+C:\Ohjelmointi kansio\Lopputyöt\PotilasTiedot\PotilasTiedot\obj\Debug\PotilasTiedot.Form2.resources
+C:\Ohjelmointi kansio\Lopputyöt\PotilasTiedot\PotilasTiedot\obj\Debug\PotilasTiedot.Form3.resources
+C:\Ohjelmointi kansio\Lopputyöt\PotilasTiedot\PotilasTiedot\obj\Debug\PotilasTiedot.csproj.AssemblyReference.cache
+C:\Ohjelmointi kansio\varakansio\PotilasTiedot\PotilasTiedot\bin\Debug\PotilasTiedot.exe.config
+C:\Ohjelmointi kansio\varakansio\PotilasTiedot\PotilasTiedot\bin\Debug\PotilasTiedot.exe
+C:\Ohjelmointi kansio\varakansio\PotilasTiedot\PotilasTiedot\bin\Debug\PotilasTiedot.pdb
+C:\Ohjelmointi kansio\varakansio\PotilasTiedot\PotilasTiedot\obj\Debug\PotilasTiedot.csproj.AssemblyReference.cache
+C:\Ohjelmointi kansio\varakansio\PotilasTiedot\PotilasTiedot\obj\Debug\PotilasTiedot.Form1.resources
+C:\Ohjelmointi kansio\varakansio\PotilasTiedot\PotilasTiedot\obj\Debug\PotilasTiedot.Form2.resources
+C:\Ohjelmointi kansio\varakansio\PotilasTiedot\PotilasTiedot\obj\Debug\PotilasTiedot.Form3.resources
+C:\Ohjelmointi kansio\varakansio\PotilasTiedot\PotilasTiedot\obj\Debug\PotilasTiedot.Properties.Resources.resources
+C:\Ohjelmointi kansio\varakansio\PotilasTiedot\PotilasTiedot\obj\Debug\PotilasTiedot.csproj.GenerateResource.cache
+C:\Ohjelmointi kansio\varakansio\PotilasTiedot\PotilasTiedot\obj\Debug\PotilasTiedot.csproj.CoreCompileInputs.cache
+C:\Ohjelmointi kansio\varakansio\PotilasTiedot\PotilasTiedot\obj\Debug\PotilasTiedot.exe
+C:\Ohjelmointi kansio\varakansio\PotilasTiedot\PotilasTiedot\obj\Debug\PotilasTiedot.pdb
+C:\Ohjelmointi kansio\Potilasrekisteri lopputyö\Potilasrekisteri\PotilasTiedot\PotilasTiedot\bin\Debug\PotilasTiedot.exe.config
+C:\Ohjelmointi kansio\Potilasrekisteri lopputyö\Potilasrekisteri\PotilasTiedot\PotilasTiedot\bin\Debug\PotilasTiedot.exe
+C:\Ohjelmointi kansio\Potilasrekisteri lopputyö\Potilasrekisteri\PotilasTiedot\PotilasTiedot\bin\Debug\PotilasTiedot.pdb
+C:\Ohjelmointi kansio\Potilasrekisteri lopputyö\Potilasrekisteri\PotilasTiedot\PotilasTiedot\obj\Debug\PotilasTiedot.csproj.AssemblyReference.cache
+C:\Ohjelmointi kansio\Potilasrekisteri lopputyö\Potilasrekisteri\PotilasTiedot\PotilasTiedot\obj\Debug\PotilasTiedot.Form1.resources
+C:\Ohjelmointi kansio\Potilasrekisteri lopputyö\Potilasrekisteri\PotilasTiedot\PotilasTiedot\obj\Debug\PotilasTiedot.Form2.resources
+C:\Ohjelmointi kansio\Potilasrekisteri lopputyö\Potilasrekisteri\PotilasTiedot\PotilasTiedot\obj\Debug\PotilasTiedot.Form3.resources
+C:\Ohjelmointi kansio\Potilasrekisteri lopputyö\Potilasrekisteri\PotilasTiedot\PotilasTiedot\obj\Debug\PotilasTiedot.Properties.Resources.resources
+C:\Ohjelmointi kansio\Potilasrekisteri lopputyö\Potilasrekisteri\PotilasTiedot\PotilasTiedot\obj\Debug\PotilasTiedot.csproj.GenerateResource.cache
+C:\Ohjelmointi kansio\Potilasrekisteri lopputyö\Potilasrekisteri\PotilasTiedot\PotilasTiedot\obj\Debug\PotilasTiedot.csproj.CoreCompileInputs.cache
+C:\Ohjelmointi kansio\Potilasrekisteri lopputyö\Potilasrekisteri\PotilasTiedot\PotilasTiedot\obj\Debug\PotilasTiedot.exe
+C:\Ohjelmointi kansio\Potilasrekisteri lopputyö\Potilasrekisteri\PotilasTiedot\PotilasTiedot\obj\Debug\PotilasTiedot.pdb
+C:\Ohjelmointi kansio\varakansio\Lopputyö muokattu versio luokka\PotilasTiedot\PotilasTiedot\bin\Debug\PotilasTiedot.exe.config
+C:\Ohjelmointi kansio\varakansio\Lopputyö muokattu versio luokka\PotilasTiedot\PotilasTiedot\bin\Debug\PotilasTiedot.exe
+C:\Ohjelmointi kansio\varakansio\Lopputyö muokattu versio luokka\PotilasTiedot\PotilasTiedot\bin\Debug\PotilasTiedot.pdb
+C:\Ohjelmointi kansio\varakansio\Lopputyö muokattu versio luokka\PotilasTiedot\PotilasTiedot\obj\Debug\PotilasTiedot.Form1.resources
+C:\Ohjelmointi kansio\varakansio\Lopputyö muokattu versio luokka\PotilasTiedot\PotilasTiedot\obj\Debug\PotilasTiedot.Form2.resources
+C:\Ohjelmointi kansio\varakansio\Lopputyö muokattu versio luokka\PotilasTiedot\PotilasTiedot\obj\Debug\PotilasTiedot.Form3.resources
+C:\Ohjelmointi kansio\varakansio\Lopputyö muokattu versio luokka\PotilasTiedot\PotilasTiedot\obj\Debug\PotilasTiedot.Properties.Resources.resources
+C:\Ohjelmointi kansio\varakansio\Lopputyö muokattu versio luokka\PotilasTiedot\PotilasTiedot\obj\Debug\PotilasTiedot.csproj.GenerateResource.cache
+C:\Ohjelmointi kansio\varakansio\Lopputyö muokattu versio luokka\PotilasTiedot\PotilasTiedot\obj\Debug\PotilasTiedot.csproj.CoreCompileInputs.cache
+C:\Ohjelmointi kansio\varakansio\Lopputyö muokattu versio luokka\PotilasTiedot\PotilasTiedot\obj\Debug\PotilasTiedot.exe
+C:\Ohjelmointi kansio\varakansio\Lopputyö muokattu versio luokka\PotilasTiedot\PotilasTiedot\obj\Debug\PotilasTiedot.pdb
